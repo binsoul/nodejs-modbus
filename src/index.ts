@@ -1,1 +1,1 @@
-export { ModbusRtu } from './ModubusRtu';
+export { ModbusRtu } from './ModubusRtu.js';
